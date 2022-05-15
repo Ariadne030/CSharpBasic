@@ -12,6 +12,7 @@ namespace classProject2
         private static void WritePlus(int a, int b)
         {
             Console.WriteLine(a + b);
+            Console.WriteLine(a + b);
         }
     }
 
